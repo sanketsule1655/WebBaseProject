@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+.mycontainer
+{
+	height:100vh;
+	display:flex;
+}
+.mycontainer nav a
+{
+	display:block;
+	padding:10px;
+	text-decoration:none;
+	color:white;
+}
